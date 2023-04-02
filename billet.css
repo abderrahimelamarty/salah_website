@@ -1,0 +1,440 @@
+.billet-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.billet-billet2 {
+  width: 100%;
+  height: 1820px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.billet-image209aa482af515ca5f07224d0befc52781 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 598px;
+  position: absolute;
+  border-color: transparent;
+}
+.billet-container1 {
+  top: -10px;
+  left: 1432px;
+  width: 499px;
+  height: 97px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.billet-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 499px;
+  height: 97px;
+  position: absolute;
+}
+.billet-text {
+  top: 28px;
+  left: 89px;
+  color: rgba(0, 0, 0, 1);
+  width: 291px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.billet-text01 {
+  font-weight: 700;
+}
+.billet-slice121 {
+  top: 19px;
+  right: 91px;
+  width: 55px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+}
+.billet-container2 {
+  top: 520px;
+  left: 0px;
+  width: 1920px;
+  height: 156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.billet-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 156px;
+  position: absolute;
+}
+.billet-text03 {
+  top: 53px;
+  left: 1132px;
+  color: var(--dl-color-default-black);
+  width: 341px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.billet-text05 {
+  top: 55px;
+  left: 534px;
+  color: var(--dl-color-default-black);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.billet-group1 {
+  top: 37px;
+  left: 62px;
+  width: 170px;
+  height: 75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.billet-capture1 {
+  left: 0px;
+  width: 170px;
+  bottom: -4px;
+  height: 75px;
+  position: absolute;
+  border-color: transparent;
+}
+.billet-image1200px-lightbulbyellowicon1 {
+  top: 0px;
+  left: 80.96076202392578px;
+  width: 31px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+}
+.billet-group5 {
+  top: 53px;
+  left: 756px;
+  width: 450px;
+  height: 450px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.billet-ellipse1 {
+  top: 1.1368683772161603e-13px;
+  left: 0px;
+  width: 450px;
+  height: 450px;
+  position: absolute;
+  border-color: transparent;
+}
+.billet-ellipse2 {
+  top: -3px;
+  left: -19px;
+  width: 479px;
+  height: 245px;
+  position: absolute;
+  border-color: transparent;
+}
+.billet-image1200px-lightbulbyellowicon2 {
+  top: 80px;
+  left: 59px;
+  width: 333px;
+  height: 290px;
+  position: absolute;
+  border-color: transparent;
+}
+.billet-line2 {
+  right: -222px;
+  width: 431px;
+  bottom: 152px;
+  height: 67px;
+  position: absolute;
+}
+.billet-text07 {
+  top: 690px;
+  left: 874px;
+  color: rgba(0, 100, 129, 1);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.billet-image1200px-lightbulbyellowicon3 {
+  left: -1px;
+  width: 333px;
+  bottom: -2px;
+  height: 290px;
+  position: absolute;
+  border-color: transparent;
+}
+.billet-text09 {
+  top: 801px;
+  left: 329px;
+  color: rgba(0, 0, 0, 1);
+  width: 480px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.billet-text11 {
+  top: 879px;
+  left: 395px;
+  color: rgba(0, 0, 0, 1);
+  width: 411px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.billet-text13 {
+  top: 952px;
+  left: 392px;
+  color: rgba(0, 0, 0, 1);
+  width: 417px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.billet-text15 {
+  top: 797px;
+  left: 1044px;
+  color: rgba(0, 0, 0, 1);
+  width: 535px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.billet-text20 {
+  top: 935px;
+  left: 1063px;
+  color: rgba(0, 0, 0, 1);
+  width: 521px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.billet-rectangle14 {
+  top: 1125px;
+  left: 462px;
+  width: 1019px;
+  height: 354px;
+  position: absolute;
+  border-color: rgba(0, 100, 129, 1);
+  border-style: solid;
+  border-width: 17px;
+}
+.billet-text25 {
+  top: 1184px;
+  left: 479px;
+  color: rgba(0, 0, 0, 1);
+  width: 961px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.billet-group3 {
+  left: 689px;
+  width: 551px;
+  bottom: 71px;
+  height: 96px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.billet-rectangle10 {
+  top: 0px;
+  left: 3.055436134338379px;
+  width: 548px;
+  height: 96px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.billet-text27 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 551px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Libre Caslon Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.billet-rectangle15 {
+  top: 1302px;
+  left: 523px;
+  width: 900px;
+  height: 106px;
+  position: absolute;
+}
+.billet-text29 {
+  top: 1323px;
+  left: 455px;
+  color: rgba(0, 0, 0, 1);
+  width: 1019px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

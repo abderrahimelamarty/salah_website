@@ -1,0 +1,458 @@
+.payement-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.payement-payement {
+  width: 100%;
+  height: 1820px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.payement-image209aa482af515ca5f07224d0befc52781 {
+  top: -291px;
+  left: 0px;
+  width: 1919px;
+  height: 889px;
+  position: absolute;
+  border-color: transparent;
+}
+.payement-container1 {
+  top: -10px;
+  left: 1432px;
+  width: 499px;
+  height: 97px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.payement-rectangle2 {
+  top: 0px;
+  left: 0px;
+  width: 499px;
+  height: 97px;
+  position: absolute;
+}
+.payement-text {
+  top: 28px;
+  left: 89px;
+  color: rgba(0, 0, 0, 1);
+  width: 291px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.payement-text01 {
+  font-weight: 700;
+}
+.payement-slice121 {
+  top: 19px;
+  right: 91px;
+  width: 55px;
+  height: 54px;
+  position: absolute;
+  border-color: transparent;
+}
+.payement-group5 {
+  top: 53px;
+  left: 756px;
+  width: 450px;
+  height: 450px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.payement-ellipse1 {
+  top: 1.1368683772161603e-13px;
+  left: 0px;
+  width: 450px;
+  height: 450px;
+  position: absolute;
+  border-color: transparent;
+}
+.payement-ellipse2 {
+  top: -3px;
+  left: -19px;
+  width: 479px;
+  height: 245px;
+  position: absolute;
+  border-color: transparent;
+}
+.payement-image1200px-lightbulbyellowicon2 {
+  top: 80px;
+  left: 59px;
+  width: 333px;
+  height: 290px;
+  position: absolute;
+  border-color: transparent;
+}
+.payement-line2 {
+  top: 616px;
+  left: 1238px;
+  width: 431px;
+  height: 67px;
+  position: absolute;
+}
+.payement-group3 {
+  left: 1061px;
+  width: 317px;
+  bottom: 220px;
+  height: 96px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.payement-rectangle10 {
+  top: 0px;
+  left: 1.7578368186950684px;
+  width: 315px;
+  height: 96px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.payement-text03 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Libre Caslon Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.payement-group4 {
+  left: 528px;
+  width: 317px;
+  bottom: 220px;
+  height: 96px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.payement-rectangle101 {
+  top: 0px;
+  left: 1.7578368186950684px;
+  width: 315px;
+  height: 96px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 25px;
+}
+.payement-text05 {
+  top: 7px;
+  color: rgba(255, 255, 255, 1);
+  width: 317px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Libre Caslon Text;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.payement-text07 {
+  top: 758px;
+  left: 327px;
+  color: rgba(87, 87, 87, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: JejuGothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.payement-text09 {
+  top: 974px;
+  left: 280px;
+  color: rgba(108, 108, 108, 1);
+  width: 497px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: JejuGothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.payement-text11 {
+  top: 974px;
+  left: 1068px;
+  color: rgba(108, 108, 108, 1);
+  width: 336px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: JejuGothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.payement-text13 {
+  top: 758px;
+  left: 1088px;
+  color: rgba(108, 108, 108, 1);
+  width: 262px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: JejuGothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.payement-rectangle16 {
+  top: 839px;
+  left: 288px;
+  width: 625px;
+  height: 89px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.payement-rectangle18 {
+  top: 1067px;
+  left: 288px;
+  width: 625px;
+  height: 89px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.payement-text15 {
+  top: 1196px;
+  left: 309px;
+  color: rgba(108, 108, 108, 1);
+  width: 344px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: JejuGothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.payement-rectangle20 {
+  top: 1289px;
+  left: 288px;
+  width: 625px;
+  height: 89px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.payement-rectangle17 {
+  top: 839px;
+  left: 1068px;
+  width: 494px;
+  height: 89px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.payement-rectangle19 {
+  top: 1067px;
+  left: 1068px;
+  width: 494px;
+  height: 89px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 11px;
+}
+.payement-image1200px-lightbulbyellowicon3 {
+  left: -1px;
+  width: 333px;
+  bottom: -2px;
+  height: 290px;
+  position: absolute;
+  border-color: transparent;
+}
+.payement-container2 {
+  top: 520px;
+  left: 0px;
+  width: 1920px;
+  height: 156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.payement-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 156px;
+  position: absolute;
+}
+.payement-text17 {
+  top: 53px;
+  left: 1132px;
+  color: var(--dl-color-default-black);
+  width: 341px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.payement-text19 {
+  top: 55px;
+  left: 534px;
+  color: var(--dl-color-default-black);
+  width: 180px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Black;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.payement-group1 {
+  top: 37px;
+  left: 62px;
+  width: 170px;
+  height: 75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.payement-capture1 {
+  left: 0px;
+  width: 170px;
+  bottom: -4px;
+  height: 75px;
+  position: absolute;
+  border-color: transparent;
+}
+.payement-image1200px-lightbulbyellowicon1 {
+  top: 0px;
+  left: 80.96076202392578px;
+  width: 31px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+}
